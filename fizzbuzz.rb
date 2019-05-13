@@ -7,5 +7,4 @@ def fizzbuzz(int)
     puts "Buzz"
   if (int % 5 == 0) && (int % 3 == 0)
     puts "FizzBuzz"
-
 end
